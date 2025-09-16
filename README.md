@@ -1,7 +1,7 @@
 # Crypto Price Tracker - A Streamlit Web Application
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_HUGGINGFACE_SPACE_URL)
-[![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-blue)](YOUR_HUGGINGFACE_SPACE_URL)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://crypto-price-tracker.streamlit.app/)
+[![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/ketsar/crypto-price-tracker)
 
 A real-time cryptocurrency price tracking dashboard built with Streamlit. This application scrapes data for the top 100 cryptocurrencies from CoinMarketCap and presents it in a clean, interactive, and visually appealing user interface.
 
